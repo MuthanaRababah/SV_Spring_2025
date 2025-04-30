@@ -16,6 +16,6 @@ public class Project {
     }
 
     public static void printYOURNAME() {
-        System.out.println("My name is Muthana Rababah.");
+        System.out.println("My name is Muthana Rababah .");
     }
 }
